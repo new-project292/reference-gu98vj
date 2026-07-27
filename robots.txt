@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://new-project292.github.io/reference-gu98vj/sitemap.xml
